@@ -1,3 +1,3 @@
 ## Detail about CSS
 
-Here comes the info for CSS
+Notes for CSS
