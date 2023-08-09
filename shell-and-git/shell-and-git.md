@@ -18,4 +18,5 @@ CLI: Command Line Interface
 - code . (open current dir in VSCode)
 - echo "Hello" > honey.txt (add Hello to honey file)
 - echo "Hello" (Just gives Hello)
+- tree (get the folder structure note: needs to install tree library)
 
