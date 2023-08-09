@@ -19,4 +19,4 @@ CLI: Command Line Interface
 - echo "Hello" > honey.txt (add Hello to honey file)
 - echo "Hello" (Just gives Hello)
 - tree (get the folder structure note: needs to install tree library)
-
+- cd - (previous file location)
