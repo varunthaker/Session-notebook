@@ -1,2 +1,3 @@
 ## Detail about HTML
-Here comes the info for HTML
+
+updated on v1 Branch

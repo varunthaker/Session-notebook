@@ -1,3 +1,3 @@
 ## Detail about CSS
 
-Notes for CSS
+updated on v1 Branch
